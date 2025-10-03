@@ -95,9 +95,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ControlAnimal.cs" />
     <Compile Include="ControlEndereco.cs" />
     <Compile Include="ControlMenu.cs" />
     <Compile Include="ControlRaca.cs" />
+    <Compile Include="DAOAnimal.cs" />
     <Compile Include="DAOEndereco.cs" />
     <Compile Include="DAORaca.cs" />
     <Compile Include="DAOVeterinario.cs" />

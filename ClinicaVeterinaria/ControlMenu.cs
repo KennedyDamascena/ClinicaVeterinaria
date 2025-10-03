@@ -11,6 +11,8 @@ namespace ClinicaVeterinaria
         //Declarar a Variável que representará as classes control
         private ControlVeterinario controleVeterinario;
         private ControlEndereco controleEndereco;
+        private ControlRaca controleRaca;
+        private ControlAnimal controleAnimal;
         private int opcaoPrincipal;
         private int opcaoGeral;
 
@@ -41,7 +43,9 @@ namespace ClinicaVeterinaria
                               "Escolha uma das opções abaixo: " +
                               "\n0. Sair" +
                               "\n1. Veterinario"+
-                              "\n2. Endereço");
+                              "\n2. Endereço"+
+                              "\n3. Raça"+
+                              "\n4. Animal");
                               
             ModificarOpcaoPrincipal = Convert.ToInt32(Console.ReadLine());
         }//fim do método
@@ -64,6 +68,14 @@ namespace ClinicaVeterinaria
                     case 2:
                         Console.WriteLine("Endereço");
                         ExecutarEndereco();
+                        break;
+                    case 3:
+                        Console.WriteLine("Raça");
+                        ExecutarRaca();
+                        break;
+                     case 4:
+                        Console.WriteLine("Animal");
+                        ExecutarAnimal();
                         break;
 
                     default:
@@ -174,22 +186,142 @@ namespace ClinicaVeterinaria
                         string cep = Console.ReadLine();
 
 
-                        //Chamar o livro
+                        //Chamar o Endereço
                         this.controleEndereco = new ControlEndereco( logradoro, numero, bairro, cidade,  estado,  pais, cep);
                         break;
                     case 2:
                         Console.WriteLine("\nConsultar");
                         //Chamar os dados do Endereco
+                        this.controleEndereco = new ControlEndereco();
                         this.controleEndereco.Imprimir();
                         break;
                     case 3:
-                        Console.WriteLine("Atualizar Livro");
-                        //Executando o método
-                        this.controleEndereco.Atualizar();
+                        Console.WriteLine("\nConsultar Por Codigo");
+                        this.controleEndereco = new ControlEndereco();
+                        this.controleEndereco.ConsultarPorCodigo();
                         break;
                     case 4:
+                        Console.WriteLine("Atualizar Endereço");
+                        //Executando o método
+                        this.controleEndereco = new ControlEndereco();
+                        this.controleEndereco.Atualizar();
+                        break;
+                    case 5:
                         Console.WriteLine("\nExcluir");
                         this.controleEndereco = new ControlEndereco();//Zerando todos os dados - Exclui
+                        Console.WriteLine("Dado Excluido com Sucesso!!!");
+                        break;
+                    default:
+                        Console.WriteLine("Opção Escolhida não é válida! Tente Novamente!");
+                        break;
+                }//fim do switch
+            } while (ModificarOpcaoGeral != 0);//Fim da repetição
+        }//fim do método ExecutarEndereco
+
+        public void ExecutarRaca()
+        {
+            do
+            {
+                Console.WriteLine("\n\nMENU RAÇA\n\n");
+                MenuGeral();//Escolher a opção correta
+                switch (ModificarOpcaoGeral)
+                {
+                    case 0:
+                        Console.WriteLine("Voltar ao menu anterior");
+                        break;
+                    case 1:
+                        Console.WriteLine("\nCadastrar\n");
+                        //Pegar os dados do Endereco
+                        Console.WriteLine("\nInforme a Descrição: ");
+                        string descricao = Console.ReadLine(); 
+
+                        Console.WriteLine("\nInforme a Especie: ");
+                        string especie = Console.ReadLine();                      
+
+
+                        //Chamar o RAÇA
+                        this.controleRaca = new ControlRaca(descricao, especie);
+                        break;
+                    case 2:
+                        Console.WriteLine("\nConsultar");
+                        //Chamar os dados de Raça
+                        this.controleRaca = new ControlRaca();
+                        this.controleRaca.Imprimir();
+                        break;
+                    case 3:
+                        Console.WriteLine("\nConsultar Por Codigo");
+                        this.controleRaca = new ControlRaca();
+                        this.controleRaca.ConsultarPorCodigo();
+                        break;
+                    case 4:
+                        Console.WriteLine("Atualizar Raça");
+                        //Executando o método
+                        this.controleRaca = new ControlRaca();
+                        this.controleRaca.Atualizar();
+                        break;
+                    case 5:
+                        Console.WriteLine("\nExcluir");
+                        this.controleRaca = new ControlRaca();//Zerando todos os dados - Exclui
+                        Console.WriteLine("Dado Excluido com Sucesso!!!");
+                        break;
+                    default:
+                        Console.WriteLine("Opção Escolhida não é válida! Tente Novamente!");
+                        break;
+                }//fim do switch
+            } while (ModificarOpcaoGeral != 0);//Fim da repetição
+        }//fim do método ExecutarRaca
+
+        public void ExecutarAnimal()
+        {
+            do
+            {
+                Console.WriteLine("\n\nMENU ANIMAL\n\n");
+                MenuGeral();//Escolher a opção correta
+                switch (ModificarOpcaoGeral)
+                {
+                    case 0:
+                        Console.WriteLine("Voltar ao menu anterior");
+                        break;
+                    case 1:
+                        Console.WriteLine("\nCadastrar\n");//string nome, DateTime dtNascimento, double peso, int codigoRaca, int codigoTutor
+                        //Pegar os dados do Endereco
+                        Console.WriteLine("\nInforme o Nome: ");
+                        string nome = Console.ReadLine();
+
+                        Console.WriteLine("\nInforme a Data de Nascimento: ");
+                        DateTime dtNascimento = Convert.ToDateTime(Console.ReadLine());
+
+                        Console.WriteLine("\nInforme o Peso: ");
+                        double peso = Convert.ToDouble(Console.ReadLine());
+
+                        Console.WriteLine("\nInforme o Código de Raca: ");
+                        int codigoRaca = Convert.ToInt32(Console.ReadLine());
+
+                        Console.WriteLine("\nInforme o Código de Tutor: ");
+                        int codigoTutor = Convert.ToInt32(Console.ReadLine());
+                        //Chamar o RAÇA
+                        this.controleAnimal = new ControlAnimal(nome, dtNascimento, peso, codigoRaca, codigoTutor);
+                        break;
+                    case 2:
+                        Console.WriteLine("\nConsultar");
+                        //Chamar os dados de Raça
+                        this.controleAnimal = new ControlAnimal();
+                        this.controleAnimal.Imprimir();
+                        break;
+                    case 3:
+                        Console.WriteLine("\nConsultar Por Codigo");
+                        this.controleAnimal = new ControlAnimal();
+                        this.controleAnimal.ConsultarPorCodigo();
+                        break;
+                    case 4:
+                        Console.WriteLine("Atualizar Raça");
+                        //Executando o método
+                        this.controleAnimal = new ControlAnimal();
+                        this.controleAnimal.Atualizar();
+                        break;
+                    case 5:
+                        Console.WriteLine("\nExcluir");
+                        this.controleAnimal = new ControlAnimal();//Zerando todos os dados - Exclui
                         Console.WriteLine("Dado Excluido com Sucesso!!!");
                         break;
                     default:

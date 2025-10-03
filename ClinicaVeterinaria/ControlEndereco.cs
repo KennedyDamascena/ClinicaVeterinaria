@@ -48,70 +48,70 @@ namespace ClinicaVeterinaria
             {
                 case 1:
                     Console.WriteLine("Atualizar logradoro");
-                    Console.WriteLine("Informe o logradoro de onde vai atualizar");
+                    Console.WriteLine("Informe o codigo do logradoro de onde vai atualizar");
                     int codigo = Convert.ToInt32(Console.ReadLine());
                     //nova descrição
-                    Console.WriteLine("Informe o logradoro");
+                    Console.WriteLine("Informe o novo logradoro");
                     string logradoro = Console.ReadLine();
                     //atualizar
                     Console.WriteLine(this.dao.Atualizar(codigo, "logradoro", logradoro));
                     break;
                 case 2:
                     Console.WriteLine("Atualizar numero");
-                    Console.WriteLine("Informe a numero de onde vai atualizar");
+                    Console.WriteLine("Informe o codigo do numero de onde vai atualizar");
                     codigo = Convert.ToInt32(Console.ReadLine());
                     //nova descrição
-                    Console.WriteLine("Informe o numero");
+                    Console.WriteLine("Informe o novo numero");
                     int numero = Convert.ToInt32(Console.ReadLine());
                     //atualizar
                     Console.WriteLine(this.dao.Atualizar(codigo, "numero", numero));
                     break;
                 case 3:
                     Console.WriteLine("Atualizar bairro");
-                    Console.WriteLine("Informe o bairro de onde vai atualizar");
+                    Console.WriteLine("Informe o codigo bairro de onde vai atualizar");
                     codigo = Convert.ToInt32(Console.ReadLine());
                     //nova descrição
-                    Console.WriteLine("Informe o bairro");
+                    Console.WriteLine("Informe o novo bairro");
                     string bairro = Console.ReadLine();
                     //atualizar
                     Console.WriteLine(this.dao.Atualizar(codigo, "bairro", bairro));
                     break;
                 case 4:
                     Console.WriteLine("Atualizar cidade");
-                    Console.WriteLine("Informe o cidade de onde vai atualizar");
+                    Console.WriteLine("Informe o codigo da cidade de onde vai atualizar");
                     codigo = Convert.ToInt32(Console.ReadLine());
                     //nova descrição
-                    Console.WriteLine("Informe o cidade");
+                    Console.WriteLine("Informe o novo cidade");
                     string cidade = Console.ReadLine();
                     //atualizar
                     Console.WriteLine(this.dao.Atualizar(codigo, "cidade", cidade));
                     break;
                 case 5:
                     Console.WriteLine("Atualizar estado");
-                    Console.WriteLine("Informe o estado de onde vai atualizar");
+                    Console.WriteLine("Informe o o codigo do estado de onde vai atualizar");
                     codigo = Convert.ToInt32(Console.ReadLine());
                     //nova descrição
-                    Console.WriteLine("Informe o estado");
+                    Console.WriteLine("Informe o novo estado");
                     string estado = Console.ReadLine();
                     //atualizar
                     Console.WriteLine(this.dao.Atualizar(codigo, "estado", estado));
                     break;
                 case 6:
                     Console.WriteLine("Atualizar pais");
-                    Console.WriteLine("Informe o pais de onde vai atualizar");
+                    Console.WriteLine("Informe o codigo do pais de onde vai atualizar");
                     codigo = Convert.ToInt32(Console.ReadLine());
                     //nova descrição
-                    Console.WriteLine("Informe o pais");
+                    Console.WriteLine("Informe o novo pais");
                     string pais = Console.ReadLine();
                     //atualizar
                     Console.WriteLine(this.dao.Atualizar(codigo, "pais", pais));
                     break;
                 case 7:
                     Console.WriteLine("Atualizar cep");
-                    Console.WriteLine("Informe o cep de onde vai atualizar");
+                    Console.WriteLine("Informe o codigo do cep de onde vai atualizar");
                     codigo = Convert.ToInt32(Console.ReadLine());
                     //nova descrição
-                    Console.WriteLine("Informe o cep");
+                    Console.WriteLine("Informe o novo cep");
                     string cep = Console.ReadLine();
                     //atualizar
                     Console.WriteLine(this.dao.Atualizar(codigo, "cep", cep));

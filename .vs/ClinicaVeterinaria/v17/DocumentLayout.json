@@ -3,35 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|c:\\users\\kennedy.dmiranda\\source\\repos\\clinicaveterinaria\\clinicaveterinaria\\daoraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\daoraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|c:\\users\\kennedy.dmiranda\\source\\repos\\clinicaveterinaria\\clinicaveterinaria\\controlraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\controlraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|c:\\users\\kennedy.dmiranda\\source\\repos\\clinicaveterinaria\\clinicaveterinaria\\daoendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\daoendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|c:\\users\\kennedy.dmiranda\\source\\repos\\clinicaveterinaria\\clinicaveterinaria\\controlanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\controlanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\clinicaveterinaria\\controlmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\controlmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|c:\\users\\kennedy.dmiranda\\source\\repos\\clinicaveterinaria\\clinicaveterinaria\\daoanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\daoanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\clinicaveterinaria\\daoveterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\daoveterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|c:\\users\\kennedy.dmiranda\\source\\repos\\clinicaveterinaria\\clinicaveterinaria\\daoraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\daoraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\clinicaveterinaria\\controlraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\controlraca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\clinicaveterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|c:\\users\\kennedy.dmiranda\\source\\repos\\clinicaveterinaria\\clinicaveterinaria\\daoveterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\daoveterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|c:\\users\\kennedy.dmiranda\\source\\repos\\clinicaveterinaria\\clinicaveterinaria\\controlendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\clinicaveterinaria\\controlendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\controlendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|c:\\users\\kennedy.dmiranda\\source\\repos\\clinicaveterinaria\\clinicaveterinaria\\controlveterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\clinicaveterinaria\\daoendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\daoendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\clinicaveterinaria\\controlveterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F7C1A18-D716-456C-BDBA-25B491437D13}|ClinicaVeterinaria\\ClinicaVeterinaria.csproj|solutionrelative:clinicaveterinaria\\controlveterinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +50,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControlMenu.cs",
+              "DocumentMoniker": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\ControlMenu.cs",
+              "RelativeDocumentMoniker": "ClinicaVeterinaria\\ControlMenu.cs",
+              "ToolTip": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\ControlMenu.cs",
+              "RelativeToolTip": "ClinicaVeterinaria\\ControlMenu.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAkwEYBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:01:58.043Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -54,104 +76,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "DAOAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\DAOAnimal.cs",
+              "RelativeDocumentMoniker": "ClinicaVeterinaria\\DAOAnimal.cs",
+              "ToolTip": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\DAOAnimal.cs",
+              "RelativeToolTip": "ClinicaVeterinaria\\DAOAnimal.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAnwFYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:46:05.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControlAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\ControlAnimal.cs",
+              "RelativeDocumentMoniker": "ClinicaVeterinaria\\ControlAnimal.cs",
+              "ToolTip": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\ControlAnimal.cs",
+              "RelativeToolTip": "ClinicaVeterinaria\\ControlAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:45:45.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ControlRaca.cs",
               "DocumentMoniker": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\ControlRaca.cs",
               "RelativeDocumentMoniker": "ClinicaVeterinaria\\ControlRaca.cs",
               "ToolTip": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\ControlRaca.cs",
               "RelativeToolTip": "ClinicaVeterinaria\\ControlRaca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T14:51:57.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "DAORaca.cs",
               "DocumentMoniker": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\DAORaca.cs",
               "RelativeDocumentMoniker": "ClinicaVeterinaria\\DAORaca.cs",
               "ToolTip": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\DAORaca.cs",
               "RelativeToolTip": "ClinicaVeterinaria\\DAORaca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAiwJEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T14:51:35.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ControlEndereco.cs",
               "DocumentMoniker": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\ControlEndereco.cs",
               "RelativeDocumentMoniker": "ClinicaVeterinaria\\ControlEndereco.cs",
               "ToolTip": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\ControlEndereco.cs",
               "RelativeToolTip": "ClinicaVeterinaria\\ControlEndereco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T13:03:54.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "DAOVeterinario.cs",
               "DocumentMoniker": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\DAOVeterinario.cs",
               "RelativeDocumentMoniker": "ClinicaVeterinaria\\DAOVeterinario.cs",
               "ToolTip": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\DAOVeterinario.cs",
               "RelativeToolTip": "ClinicaVeterinaria\\DAOVeterinario.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAABtAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwLAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T14:05:06.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "DAOEndereco.cs",
               "DocumentMoniker": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\DAOEndereco.cs",
               "RelativeDocumentMoniker": "ClinicaVeterinaria\\DAOEndereco.cs",
               "ToolTip": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\DAOEndereco.cs",
               "RelativeToolTip": "ClinicaVeterinaria\\DAOEndereco.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAUwEIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAQwJkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T13:04:17.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ControlVeterinario.cs",
               "DocumentMoniker": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\ControlVeterinario.cs",
               "RelativeDocumentMoniker": "ClinicaVeterinaria\\ControlVeterinario.cs",
               "ToolTip": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\ControlVeterinario.cs",
               "RelativeToolTip": "ClinicaVeterinaria\\ControlVeterinario.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAcwFMAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwFMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T11:35:34.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ControlMenu.cs",
-              "DocumentMoniker": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\ControlMenu.cs",
-              "RelativeDocumentMoniker": "ClinicaVeterinaria\\ControlMenu.cs",
-              "ToolTip": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\ControlMenu.cs",
-              "RelativeToolTip": "ClinicaVeterinaria\\ControlMenu.cs",
-              "ViewState": "AgIAAKEAAAAAAAAAAAAiwMQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T14:01:58.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\Program.cs",
               "RelativeDocumentMoniker": "ClinicaVeterinaria\\Program.cs",
               "ToolTip": "C:\\Users\\kennedy.dmiranda\\source\\repos\\ClinicaVeterinaria\\ClinicaVeterinaria\\Program.cs",
               "RelativeToolTip": "ClinicaVeterinaria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T14:00:42.428Z",
               "EditorCaption": ""
